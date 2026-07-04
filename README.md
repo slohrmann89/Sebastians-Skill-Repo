@@ -1,6 +1,6 @@
 # Sebastians Skill Repo
 
-Sechs Claude Skills aus der Produkt-Praxis: Positionierung, UX-Audits, Linear-Tickets, Ideen-Validierung, Bewerbungs-Checks und Schreiben, das nicht nach AI klingt.
+Sieben Claude Skills aus der Produkt-Praxis: Positionierung für Produkte und Personen, UX-Audits, Linear-Tickets, Ideen-Validierung, Bewerbungs-Checks und Schreiben, das nicht nach AI klingt.
 
 ## Wer dahinter steckt
 
@@ -47,6 +47,12 @@ Bewertet, wie gut eine Bewerbung (CV plus Anschreiben) auf eine konkrete Stellen
 Schreibt strukturierte, halluzinationsfreie Linear-Tickets. Harte Regel: Interview vor Ticket. Der Skill fragt erst nach, was unklar ist, statt Anforderungen zu halluzinieren. Die Ticketsprache leitet er aus den bestehenden Tickets des Projekts ab.
 
 **Einsatz:** *"Schreib ein Ticket für..."*, *"Brich das Feature in Issues runter"* oder eine Anforderung beschreiben, die ins Backlog soll.
+
+### personal-brand-positioning
+
+Entwickelt eine tragfähige Personal-Brand-Positionierung per strukturiertem Interview. Kombiniert Rebecca Okamotos "20 Words or Less" mit April Dunfords Komponenten (adaptiert für Personen), David Perells Personal Monopoly, Naval Ravikants Specific Knowledge und Wes Kaos Spiky Point of View. Erster Output ist ein One-Liner in maximal 20 Wörtern ("Ich helfe X, Y zu erreichen, ohne Z"), danach folgen das volle Positionierungs-Dokument und abgeleitete Bios (LinkedIn-Headline, Speaker-Bio). Zweisprachig (DE/EN). Für Firmen und Produkte ist b2b-positioning das passende Werkzeug.
+
+**Einsatz:** *"Wofür soll ich stehen?"*, *"Schärf meine LinkedIn-Positionierung"* oder *"Stell mich in einem Satz vor."*
 
 ### proven-better-new
 
