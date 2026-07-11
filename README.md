@@ -66,6 +66,27 @@ Führt einen strukturierten UX-Audit durch: auf Screenshots, Figma-Dateien, Live
 
 **Einsatz:** Screenshots oder Figma-Link posten und fragen: *"Mach einen UX-Audit"* oder *"Wo verlieren wir Nutzer in diesem Flow?"* Für die kurze Variante: *"Schau kurz drüber."*
 
+## Skills, die ich für gut befunden habe und regelmässig verwende
+
+Neben meinen eigenen Skills nutze ich diese hier von anderen. Alle sind offen verfügbar und lohnen einen Blick.
+
+**Design und Frontend**
+
+- [frontend-design](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) (Anthropic): Anleitung für UIs mit eigener visueller Identität statt generischem AI-Look, mit durchdachten Farbpaletten, Typo-Pairings und Layout-Entscheidungen.
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) (Leonxlnx): Sammlung für Layout, Typografie, Animation und Spacing, damit AI-Coding-Agents keine langweiligen Standard-Interfaces bauen.
+- [hue](https://github.com/dominikmartn/hue) (dominikmartn): lernt eine Marke aus URL, Name oder Screenshot und macht daraus ein komplettes Design-System, das über Sessions konsistent bleibt.
+- [skills for design engineers](https://github.com/emilkowalski/skills) (Emil Kowalski): Fokus auf Animation und Motion, mit Easing-Regeln, einem strengen Review-Skill und einem Vokabular, um Animationswünsche präzise zu formulieren.
+
+**Bauen und Absichern**
+
+- [mcp-builder](https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md) (Anthropic): Leitfaden für hochwertige MCP-Server in Python (FastMCP) oder TypeScript, wenn du externe APIs für LLMs zugänglich machst.
+- [project-codeguard](https://github.com/cosai-oasis/project-codeguard) (CoSAI / OASIS): bettet sichere Coding-Praktiken direkt in die AI-gestützte Entwicklung ein, damit Agents automatisch sichereren Code schreiben.
+
+**Marketing und Ads**
+
+- [NotFair](https://github.com/nowork-studio/NotFair) (nowork studio): Claude-Code-Plugin mit Zugriff auf Google Ads, Meta Ads und SEO-Tools. Findet verschwendetes Budget, diagnostiziert Creative Fatigue und setzt Optimierungen direkt um.
+- [adloop](https://github.com/kLOsk/adloop) (kLOsk): MCP-Server mit Lese- und Schreibzugriff auf Google Ads und GA4. Kampagnen optimieren, Conversions diagnostizieren und Tracking validieren, ohne den Dashboard-Wechsel.
+
 ## Lizenz und Nutzung
 
 Nimm, was du brauchst, und pass es an deinen Kontext an. Die Skills sind bewusst als editierbare Markdown-Dateien gebaut: entpacken, `SKILL.md` anpassen, wieder zippen, fertig.
